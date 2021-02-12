@@ -1,56 +1,48 @@
 # Personnal Frameworks
 
-
-J'ai initialisé ce projet afin de créer et stocker mes propres templates pour faciliter le développement.
+J'ai initialisé ce projet afin de créer et stocker mes propres templates pour faciliter le développement. ces outils seront réutilisable et customisables facilement. 
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+Création de modèles HTML, CSS et JavaScript 
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
-
-- Programme 1
-- Programme 2
-- etc...
+- Gérer les pages HTML
+- Modifier des fichiers CSS en utilisans Sass/Scss
+- Ordonner des actions par JavaScript
+- Utiliser les frameworks (Bootstrap, etc...)
 
 ### Installation
 
-Les étapes pour installer votre programme....
+L'implémentation se fait par copie de documents modèles et/ou l'appel de certains outils
 
-Dites ce qu'il faut faire...
+## Contenu
 
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
-
-## Démarrage
-
-Dites comment faire pour lancer votre projet
+- Page type HTML (single page)
+- Page type HTML (multi)
+- 
 
 ## Fabriqué avec
 
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
-
-_exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
+Fait avec : 
+- Visual Studio Code
+- Bootstrap
+- ...
 
 ## Contributing
 
 N/D
 
 ## Versions
+
 Alpha 0.1
 
 ## Auteurs
-Listez le(s) auteur(s) du projet ici !
 
 > Arnaud WANT
 
 ## License
 
-N/D  Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+N/D 
 

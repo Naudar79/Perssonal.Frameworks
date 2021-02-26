@@ -4,6 +4,37 @@
     margin: 0rem;
     padding: 0rem;
     font-family: 'Montserrat-Regular', sans-serif;
+    color: black;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.logo{
+    width: 10vw;
+    height: auto;
+    margin: 0rem;
+}
+
+.menuGlob{
+    position: absolute;
+}
+
+header #menuGlob{
+    position: fixed;
+}
+
+.px-3:hover{
+    border-bottom: 2px saddlebrown;
+}
+
+.medSoc{
+    width: 5vw;
+    height: auto;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
 }
 
 .box {
@@ -18,11 +49,6 @@ a{
     color: #000000;
 }
 
-a:hover{
-    color: blue;
-    border-bottom: 1vh solid blue;
-}
-
 .corp{
     margin-top: auto;
 }
@@ -32,6 +58,6 @@ a:hover{
 }
 
 main{
-    margin-left: 12vw;
-    margin-right: 12vw;
+    margin-left: 14vw;
+    margin-right: 14vw;
 }

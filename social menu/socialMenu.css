@@ -7,11 +7,22 @@
     margin-top: 10vh;
 }
 
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
 .medSoc{
-    width: 2.5vw;
+    width: 5vw;
     height: auto;
     margin-bottom: 1vh;
     margin-top: 1vh;
+}
+
+.corp{
+    margin-left: 8vw;
+    margin-right: 8vw;
 }
 
 @media only screen and (min-width: 250px) and (max-width:800px) {
@@ -20,5 +31,6 @@
         height: auto;
     }
 }
+
 /*********************************************************************/
 /*********************************************************************/

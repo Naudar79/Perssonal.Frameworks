@@ -21,6 +21,7 @@ L'implémentation se fait par copie de documents modèles et/ou l'appel de certa
 
 - Page type HTML (single page)
 - Page type HTML (multi)
+- Objet menu réseaux sociaux
 - 
 
 ## Fabriqué avec

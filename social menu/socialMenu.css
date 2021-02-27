@@ -1,6 +1,24 @@
+/*********************************************************************/
+/*********************************************************************/
 .box {
     position: fixed;
     display: flex;
     flex-direction: column;
     margin-top: 10vh;
 }
+
+.medSoc{
+    width: 2.5vw;
+    height: auto;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+}
+
+@media only screen and (min-width: 250px) and (max-width:800px) {
+    .medSoc {
+        width: 5vw;
+        height: auto;
+    }
+}
+/*********************************************************************/
+/*********************************************************************/

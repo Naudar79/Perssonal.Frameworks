@@ -33,15 +33,18 @@
 }
 
 /* Lorsque la largeur de l'écran est inférieure à 600 pixels, masquez tous les liens, à l'exception du premier ("Accueil"). Afficher le lien qui contient devrait ouvrir et fermer le topnav (.icon) */
-@media screen and (max-width: 600px) {
+@media all and (orientation: portrait){
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
         float: right;
         display: block;
+        font-size: 30px;
+
     }
 }
 
 /* La classe "responsive" est ajoutée au topnav avec JavaScript lorsque l'utilisateur clique sur l'icône. Cette classe donne une belle apparence au topnav sur les petits écrans (affiche les liens verticalement au lieu d'horizontal) */
+
 @media screen and (max-width: 600px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive a.icon {
